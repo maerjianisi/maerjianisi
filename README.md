@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @maerjianis
+- 👋 Hi, I'm @maerjianis, you can call me Tufi Zhang.
 - 
 - 🌱I am a graduate student in Shanghai Maritime University, majoring in control science and engineering. 
 - 
