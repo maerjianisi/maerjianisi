@@ -2,6 +2,7 @@
 - 
 - 🌱I am a graduate student in Shanghai Maritime University, majoring in control science and engineering. 
 - 
-- 🌱My research direction is the scheduling problems in automated container terminals, such as AGVs or QC and YC scheduling.
+- 🌱My research direction is Automated Container Terminal Data Forecasting.  My current specific research content is mainly related to deep learning.
+-      I'm trying to meet our school's master's graduation requirements and be able to apply for the opportunity to study for a Ph.D. 
 -      
-- 📫 QQ:931338601     email:931338601zxh@gmail.ocm
+- 📫 Wechat:17712702616    QQ:931338601     email:931338601zxh@gmail.ocm
